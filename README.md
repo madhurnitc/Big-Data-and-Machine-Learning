@@ -1,1 +1,3 @@
-# Big-Data-and-Machine-Learning
+### Big-Data-and-Machine-Learning
+
+Buffalo 311 is a service where residents call this service and register their complaints. These complains can be from any area in the city of Buffalo and can be of any type e.g. broken curb in front of an address, damaged street light, problems with the sewer etc. In this project we are categorizing and classifying Buffalo 311 data to identify pattern of the complaints in different areas of Buffalo. Based on this classification, it can be easily inferred about the prevalence of a particular type of complaint in particular area which can be taken care by Buffalo authorities by taking corrective measures in advance so as to reduce the future complaints.
